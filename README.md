@@ -1,8 +1,7 @@
-# Deep Learning (feat. T81 558:Applications of Deep Neural Networks)
-* Washington University in St. Louis
-Instructor: [Jangkyoung Park/Prof.Choi (feat.Jeff Heaton)](https://sites.wustl.edu/jeffheaton/)
-
-**The content of this course changes as technology evolves**, to keep up to date with changes [follow me on GitHub](https://github.com/jeffheaton/t81_558_deep_learning).
+# Deep Learning 
+## (feat. T81 558:Applications of Deep Neural Networks Washington University in St. Louis
+Instructor: [Jangkyoung Park/Prof.Choi (feat.Jeff Heaton)]
+**The content of this course : [here](https://github.com/jeffheaton/t81_558_deep_learning).
 
 # Course Description
 
